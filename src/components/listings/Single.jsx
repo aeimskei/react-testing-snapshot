@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Single = ({item}) => {
+  // console.log('ahhhhh', item);
   return (
     <li className="col l6 s12">
       <div className="card">
